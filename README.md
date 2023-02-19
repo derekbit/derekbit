@@ -1,6 +1,12 @@
-Hi there 👋,
+**Hi there** 👋
 
-I'm Derek - a software engineer working on Longhorn project.
+**I'm Derek Su**
+
+- 💻 Software engineer
+- 🐮 I'm currently focusing on [Longhorn](https://github.com/longhorn/longhorn) and related projects
+- 🔭 Interested in new technologies
+- 📨 How to reach me: jwsu1986@gmail.com
+
 
 <p align='left'>
 <a href="https://www.linkedin.com/in/jwsu/"><img height="30" src="https://github.com/derekbit/derekbit/blob/main/icon/linkedin.png?raw=true"></a>
