@@ -6,6 +6,7 @@
 - 🐮 I'm currently focusing on [Longhorn](https://github.com/longhorn/longhorn) and related projects
 - 🔭 Interested in new technologies
 - 📨 How to reach me: jwsu1986@gmail.com
+- Time Zone: Taipei, Taiwan (UTC+8)
 
 
 <p align='left'>
