@@ -5,7 +5,7 @@
 - 💻 Software engineer
 - 🐮 I'm currently focusing on [Longhorn](https://github.com/longhorn/longhorn) and related projects
 - 🔭 Interested in new technologies
-- 📨 How to reach me: jwsu1986@gmail.com
+- 📨 How to reach me: jwsu1986@outlook.com
 - Time Zone: Taipei, Taiwan (UTC+8)
 
 
